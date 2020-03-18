@@ -1,0 +1,19 @@
+.home-page {
+  padding: 0 200px;
+}
+
+.home-page .buttons {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.home-page .ant-btn {
+  margin-right: 20px;
+}
+
+.home-page .exit {
+  margin-right: 0;
+}
